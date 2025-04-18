@@ -1,0 +1,20 @@
+{
+  "name": "Zeromaths",
+  "short_name": "Zeromaths",
+  "start_url": "/zeromaths.github.io/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff914d",
+  "icons": [
+    {
+      "src": "zeromaths_icon_nocrop_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "zeromaths_icon_nocrop_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
